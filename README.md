@@ -1,2 +1,4 @@
 # hello-world
-a place for store ideas, resources, or even share and discuss things with others.
+a place for storing ideas, resources, or even sharing and discussing things with others.
+
+I have now made my first edits in GitHub : )
